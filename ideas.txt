@@ -1,0 +1,9 @@
+Levels -> Awards depending on the bots that were fought -> lead to new traits / skills
+
+Skills:
+ * strategies of the bots
+
+Traits:
+ * +5% movement speed
+ * production rate
+ * attack force / defend force
